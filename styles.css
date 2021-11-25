@@ -6,6 +6,10 @@ html {
 
 	text-align: center;
 	font-size: 30px;
+	image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
 }
 ul {
 	text-align: center;
